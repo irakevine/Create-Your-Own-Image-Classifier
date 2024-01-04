@@ -1,7 +1,7 @@
 # Create your own image classifier
-Final capstone that I worked on as part of the AI programming in Python nanodegree at Udacity. The aim of the project was to build an image classifier on the 102 Category Flower Dataset, and then predict new flower images using the trained model.
+Final capstone that I worked on as part of the <a href>AI programming in Python</a> nanodegree at Udacity. The aim of the project was to build an image classifier on the <a href>102 Category Flower Dataset</a>, and then predict new flower images using the trained model.
 
-This is an image taken from the Udacity website
+<a href>This is an image taken from the Udacity website</a>
 
 The project implements an image classification application. The application trains a deep learning model on a data set of images, then uses tha trained model to classify images. The code is first implemented in a Jupyter notebook.
 
